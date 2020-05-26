@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Project Test Suite" duration-ms="24111" started-at="2020-05-26T16:37:31 IST" finished-at="2020-05-26T16:37:56 IST">
+    <groups>
+    </groups>
+    <test name="Amazon Project Test Cases" duration-ms="24111" started-at="2020-05-26T16:37:31 IST" finished-at="2020-05-26T16:37:56 IST">
+      <class name="com.qa.amazon.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.amazon.testCases.LoginPageTest@711f39f9]" name="setUp" is-config="true" duration-ms="8158" started-at="2020-05-26T16:37:32 IST" finished-at="2020-05-26T16:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PageTitleTest()[pri:1, instance:com.qa.amazon.testCases.LoginPageTest@711f39f9]" name="PageTitleTest" duration-ms="41" started-at="2020-05-26T16:37:40 IST" finished-at="2020-05-26T16:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.amazon.testCases.LoginPageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="648" started-at="2020-05-26T16:37:40 IST" finished-at="2020-05-26T16:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.amazon.testCases.LoginPageTest@711f39f9]" name="setUp" is-config="true" duration-ms="8505" started-at="2020-05-26T16:37:40 IST" finished-at="2020-05-26T16:37:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateErrorMessageTest()[pri:2, instance:com.qa.amazon.testCases.LoginPageTest@711f39f9]" name="validateErrorMessageTest" duration-ms="6047" started-at="2020-05-26T16:37:49 IST" finished-at="2020-05-26T16:37:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrorMessageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.amazon.testCases.LoginPageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="649" started-at="2020-05-26T16:37:55 IST" finished-at="2020-05-26T16:37:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.amazon.testCases.LoginPageTest -->
+    </test> <!-- Amazon Project Test Cases -->
+  </suite> <!-- Amazon Project Test Suite -->
+</testng-results>
